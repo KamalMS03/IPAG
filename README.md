@@ -39,7 +39,7 @@ Launch Jupyter Notebook in the newly created environment and run ```IPAG.ipynb``
 
 ## Authors/Contributers
 
-- Ashwant Ram A S - [GitHub Profile]()
-- Harsh Kumar - [GitHub Profile](https://github.com/username2)
+- Ashwant Ram A S - [GitHub Profile](https://github.com/Ashwanth-Ram)
+- Harsh Kumar - [GitHub Profile](https://github.com/)
 - Kamalnath M S - [GitHub Profile](https://github.com/KamalMS03)
 - Dr. Jiji C V
