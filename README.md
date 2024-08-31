@@ -37,7 +37,7 @@ Launch Jupyter Notebook in the newly created environment and run ```IPAG.ipynb``
 ![Slide3](https://github.com/user-attachments/assets/e7d81a65-ac34-4346-943b-f2f84f645e43)
 
 
-## Authors/Contributers
+## Authors/Contributors
 
 - Ashwant Ram A S - [GitHub Profile](https://github.com/Ashwanth-Ram)
 - Harsh Kumar - [GitHub Profile](https://github.com/)
