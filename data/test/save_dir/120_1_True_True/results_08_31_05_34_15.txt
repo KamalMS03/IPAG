@@ -1,0 +1,68 @@
+instance_seg_ds	COCO,                            random_seg_algo	quickshift, blur_mode	120, clip_mode	1,                            pobj_mode	True, improved_XIC	True
+image_id, caption, query_id, query, good_query, sim_score, image_size, answer_size, blur_kszie, query_dependency
+0, two horses standing in a field, 0, a field, 1, 0.6814355850219727, 50176, 25860, 120, det pobj
+0, two horses standing in a field, 1, two horses, 0, 1, 50176, 3992, 120, nummod ROOT
+1, a couple of foxes standing in a forest, 0, foxes, 0, 0.6601288318634033, 50176, 8585, 120, pobj
+1, a couple of foxes standing in a forest, 1, a forest, 0, 0.5513615608215332, 50176, 32461, 120, det pobj
+1, a couple of foxes standing in a forest, 2, a couple, 0, 1, 50176, 2977, 120, det ROOT
+2, a man riding a bike through a field, 0, a field, 1, 0.8542522192001343, 50176, 28706, 120, det pobj
+2, a man riding a bike through a field, 1, a bike, 1, 1, 50176, 3824, 120, det dobj
+2, a man riding a bike through a field, 2, a man, 1, 1, 50176, 3824, 120, det ROOT
+3, a man standing in a field, 0, a field, 1, 0.8010959625244141, 50176, 25181, 120, det pobj
+3, a man standing in a field, 1, a man, 1, 1, 50176, 2249, 120, det ROOT
+4, a jeep parked on a rocky road, 0, a jeep, 0, 1, 50176, 3847, 120, det ROOT
+4, a jeep parked on a rocky road, 1, a rocky road, 1, 0.6142858266830444, 50176, 38633, 120, det amod pobj
+5, a person sping blueberries onto a cake, 0, a cake, 0, 0.8805999755859375, 50176, 7818, 120, det pobj
+5, a person sping blueberries onto a cake, 1, blueberries, 0, 1, 50176, 1657, 120, dobj
+5, a person sping blueberries onto a cake, 2, a person, 1, 1, 50176, 1657, 120, det ROOT
+6, a bird sitting on a moss covered ground, 0, a bird, 1, 1, 50176, 1708, 120, det nsubj
+6, a bird sitting on a moss covered ground, 1, a moss, 0, 0.5186691284179688, 50176, 44828, 120, det pobj
+6, a bird sitting on a moss covered ground, 2, ground, 0, 1, 50176, 1708, 120, dobj
+8, a small bird perched on a branch, 0, a small bird, 1, 1, 50176, 1991, 120, det amod nsubj
+8, a small bird perched on a branch, 1, a branch, 0, 0.5147016048431396, 50176, 44201, 120, det pobj
+9, a deer standing in the woods, 0, a deer standing, 0, 1, 50176, 1162, 120, det ROOT acl
+9, a deer standing in the woods, 1, the woods, 1, 0.6715393662452698, 50176, 46690, 120, det pobj
+10, a man sitting on a bench, 0, a man, 0, 1, 50176, 3152, 120, det ROOT
+10, a man sitting on a bench, 1, a bench, 0, 0.24433103203773499, 50176, 12845, 120, det pobj
+11, a group of women running on a track, 0, a group, 0, 1, 50176, 3332, 120, det ROOT
+11, a group of women running on a track, 1, women, 0, 0.4470316767692566, 50176, 2945, 120, pobj
+11, a group of women running on a track, 2, a track, 1, 0.662783145904541, 50176, 40750, 120, det pobj
+12, a white car driving down a winding road, 0, a winding road, 0, 0.7688879370689392, 50176, 12572, 120, det compound pobj
+12, a white car driving down a winding road, 1, a white car, 1, 1, 50176, 1205, 120, det amod ROOT
+13, two horses standing in the snow, 0, the snow, 0, 0.3417903780937195, 50176, 2623, 120, det pobj
+13, two horses standing in the snow, 1, two horses, 0, 1, 50176, 5069, 120, nummod ROOT
+14, a man sitting at a table with a laptop, 0, a laptop, 1, 0.7145634889602661, 50176, 20415, 120, det pobj
+14, a man sitting at a table with a laptop, 1, a man, 0, 1, 50176, 2970, 120, det ROOT
+14, a man sitting at a table with a laptop, 2, a table, 0, 0.34009185433387756, 50176, 1648, 120, det pobj
+15, a man walking on the beach with a surfboard, 0, a man, 1, 1, 50176, 573, 120, det ROOT
+15, a man walking on the beach with a surfboard, 1, the beach, 0, 0.7763388156890869, 50176, 24525, 120, det pobj
+15, a man walking on the beach with a surfboard, 2, a surfboard, 1, 0.6998175382614136, 50176, 24902, 120, det pobj
+16, a bird sitting on a branch in the snow, 0, the snow, 0, 0.23260311782360077, 50176, 2073, 120, det pobj
+16, a bird sitting on a branch in the snow, 1, a bird, 1, 1, 50176, 2073, 120, det ROOT
+16, a bird sitting on a branch in the snow, 2, a branch, 1, 0.4492054581642151, 50176, 43956, 120, det pobj
+17, a woman holding a pink cup, 0, a pink cup, 0, 1, 50176, 2629, 120, det amod dobj
+17, a woman holding a pink cup, 1, a woman, 0, 1, 50176, 2629, 120, det ROOT
+18, a squirrel sitting on the ground, 0, a squirrel, 1, 1, 50176, 4002, 120, det ROOT
+18, a squirrel sitting on the ground, 1, the ground, 0, 0.5938146710395813, 50176, 22960, 120, det pobj
+19, a man walking on the side of a road, 0, a road, 0, 0.48857593536376953, 50176, 48180, 120, det pobj
+19, a man walking on the side of a road, 1, the side, 1, 0.301147997379303, 50176, 48180, 120, det pobj
+19, a man walking on the side of a road, 2, a man, 1, 1, 50176, 758, 120, det ROOT
+20, a butterfly on a flower, 0, a butterfly, 1, 1, 50176, 2839, 120, det ROOT
+20, a butterfly on a flower, 1, a flower, 0, 0.4461696743965149, 50176, 2296, 120, det pobj
+21, a bird sitting on a branch, 0, a bird, 1, 1, 50176, 2838, 120, det ROOT
+21, a bird sitting on a branch, 1, a branch, 1, 0.6865889430046082, 50176, 26421, 120, det pobj
+22, a man sitting at a desk with a laptop, 0, a desk, 0, 0.649878203868866, 50176, 11989, 120, det pobj
+22, a man sitting at a desk with a laptop, 1, a man, 1, 1, 50176, 4120, 120, det ROOT
+22, a man sitting at a desk with a laptop, 2, a laptop, 0, 0.7547730207443237, 50176, 11665, 120, det pobj
+23, a butterfly is flying over some purple flowers, 0, some purple flowers, 0, 0.6763163208961487, 50176, 42839, 120, det amod pobj
+23, a butterfly is flying over some purple flowers, 1, a butterfly, 1, 1, 50176, 2445, 120, det nsubj
+24, the sun is shining over the cracked land, 0, the sun, 1, 0.7631493806838989, 50176, 50176, 120, det nsubj
+24, the sun is shining over the cracked land, 1, the cracked land, 1, 0.4470570683479309, 50176, 50176, 120, det amod pobj
+25, a cat is sitting in a wooden box, 0, a cat, 1, 0.9252704381942749, 50176, 20686, 120, det nsubj
+25, a cat is sitting in a wooden box, 1, a wooden box, 0, 0.27102187275886536, 50176, 29490, 120, det amod pobj
+26, a man walking down a street next to a train, 0, a train, 0, 0.381056547164917, 50176, 792, 120, det pobj
+26, a man walking down a street next to a train, 1, a man, 1, 1, 50176, 1467, 120, det ROOT
+26, a man walking down a street next to a train, 2, a street next, 0, 0.6331523656845093, 50176, 46013, 120, det pobj advmod
+27, a man carrying a child through a forest, 0, a forest, 0, 0.6553944945335388, 50176, 21283, 120, det pobj
+27, a man carrying a child through a forest, 1, a child, 1, 1, 50176, 1489, 120, det dobj
+27, a man carrying a child through a forest, 2, a man, 1, 1, 50176, 1489, 120, det ROOT
